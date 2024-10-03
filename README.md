@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I’m Lokesh , a passionate Front End Developer with a keen eye for design and a love for crafting beautiful, responsive websites. With a solid foundation in HTML, CSS, JavaScript, and Bootstrap, I specialize in bringing creative web designs to life. I thrive on the challenge of turning complex problems into elegant and functional web solutions, ensuring a seamless user experience.
+Hi! I’m Lokesh , a passionate Front End Developer with a keen eye for design and a love for crafting beautiful, responsive websites. With a solid foundation in HTML, CSS, JavaScript , I specialize in bringing creative web designs to life.
 
 <!--
 **Lokesh7729/Lokesh7729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
